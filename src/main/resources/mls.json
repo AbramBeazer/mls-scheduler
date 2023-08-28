@@ -1,0 +1,131 @@
+{
+  "name": "Major League Soccer",
+  "conferences": [
+    {
+      "name": "Western Conference",
+      "teams": [
+        {
+          "name": "Vancouver Whitecaps FC",
+          "displayName": "Vancouver"
+        },
+        {
+          "name": "Seattle Sounders FC",
+          "displayName": "Seattle"
+        },
+        {
+          "name": "Portland Timbers",
+          "displayName": "Portland"
+        },
+        {
+          "name": "San Jose Earthquakes",
+          "displayName": "San Jose"
+        },
+        {
+          "name": "LA Galaxy",
+          "displayName": "LA"
+        },
+        {
+          "name": "Los Angeles Football Club",
+          "displayName": "LAFC"
+        },
+        {
+          "name": "Real Salt Lake",
+          "displayName": "Salt Lake"
+        },
+        {
+          "name": "Colorado Rapids",
+          "displayName": "Colorado"
+        },
+        {
+          "name": "FC Dallas",
+          "displayName": "Dallas"
+        },
+        {
+          "name": "Austin FC",
+          "displayName": "Austin"
+        },
+        {
+          "name": "Houston Dynamo FC",
+          "displayName": "Houston"
+        },
+        {
+          "name": "St. Louis CITY SC",
+          "displayName": "St. Louis"
+        },
+        {
+          "name": "Sporting Kansas City",
+          "displayName": "Kansas City"
+        },
+        {
+          "name": "Minnesota United",
+          "displayName": "Minnesota"
+        }
+      ]
+    },
+    {
+      "name": "Eastern Conference",
+      "teams": [
+        {
+          "name": "Chicago Fire FC",
+          "displayName": "Chicago"
+        },
+        {
+          "name": "Columbus Crew",
+          "displayName": "Columbus"
+        },
+        {
+          "name": "FC Cincinnati",
+          "displayName": "Cincinnati"
+        },
+        {
+          "name": "CF Montréal",
+          "displayName": "Montréal"
+        },
+        {
+          "name": "Toronto FC",
+          "displayName": "Toronto"
+        },
+        {
+          "name": "Nashville SC",
+          "displayName": "Nashville"
+        },
+        {
+          "name": "Charlotte FC",
+          "displayName": "Charlotte"
+        },
+        {
+          "name": "D.C. United",
+          "displayName": "D.C."
+        },
+        {
+          "name": "Philadelphia Union",
+          "displayName": "Philadelphia"
+        },
+        {
+          "name": "New England Revolution",
+          "displayName": "New England"
+        },
+        {
+          "name": "New York Red Bulls",
+          "displayName": "New York"
+        },
+        {
+          "name": "New York City Football Club",
+          "displayName": "New York City"
+        },
+        {
+          "name": "Atlanta United",
+          "displayName": "Atlanta"
+        },
+        {
+          "name": "Inter Miami CF",
+          "displayName": "Miami"
+        },
+        {
+          "name": "Orlando City",
+          "displayName": "Orlando"
+        }
+      ]
+    }
+  ]
+}
